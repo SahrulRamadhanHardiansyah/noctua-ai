@@ -32,7 +32,7 @@
   * **Cloudinary**: Untuk manajemen dan transformasi gambar.
   * **Neon**: Basis data serverless.
 
-## Memulai
+## Get Started
 
 ### Prasyarat
 

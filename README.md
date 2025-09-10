@@ -4,7 +4,7 @@
 <img width="1894" height="1066" alt="image" src="https://github.com/user-attachments/assets/942aaa17-f430-4dce-ae1a-5de22ba6605e" />
 
 
-Noctua.ai adalah platform canggih yang didukung oleh AI untuk merevolusi pembuatan konten Anda. Dengan rangkaian alat premium kami, Anda dapat dengan mudah mengubah ide-ide Anda menjadi artikel berkualitas tinggi, gambar yang menakjubkan, dan masih banyak lagi.
+**Noctua.ai** adalah platform canggih yang didukung oleh AI untuk merevolusi pembuatan konten Anda. Dengan rangkaian alat premium kami, Anda dapat dengan mudah mengubah ide-ide Anda menjadi artikel berkualitas tinggi, gambar yang menakjubkan, dan masih banyak lagi.
 
 ## Fitur Utama
 

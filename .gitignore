@@ -1,0 +1,45 @@
+# === Global ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Client (React) ===
+client/node_modules/
+client/build/
+client/dist/
+client/.env
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+
+# React specific
+client/.eslintcache
+
+# === Server (Express.js) ===
+server/node_modules/
+server/dist/
+server/build/
+server/.env
+server/.env.local
+server/.env.development.local
+server/.env.test.local
+server/.env.production.local
+
+# Logs
+server/logs
+server/*.log
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
